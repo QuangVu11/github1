@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 giai quyet xung dot 1
+=======
+giai quyet xung dot 2
+>>>>>>> 7e47bda7b5f5ecf10e6ebee9901615ed85c45309
