@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaaaa
+=======
+
+giai quyet xung dot 1
+
+giai quyet xung dot 2
+
+>>>>>>> 80299ab8735fa39f6b376e4d51d28f774a36089a
